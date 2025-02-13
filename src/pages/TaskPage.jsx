@@ -24,7 +24,7 @@ function TaskPage() {
           <h2 className="text-xl font-bold text-slate-600">{title}</h2>
           <p className="text-slate-600">{description}</p>
         </div>
-      </div>
+      </div>      
     </div>
   );
 }
